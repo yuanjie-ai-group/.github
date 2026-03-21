@@ -57,7 +57,7 @@ AI：  CloudBase AI（混元大模型）
 ## 🤝 联系我们
 
 - 📧 Email: [contact@yuanjie.ai](mailto:contact@yuanjie.ai)
-- 🌐 Website: [https://yuanjie.ai](https://yuanjie.ai)
+- 🌐 Website: [https://yuanjie.rxcloud.group](https://yuanjie.rxcloud.group)
 - 📍 Location: China
 
 ---

@@ -1,71 +1,62 @@
-# 欢迎来到 YuanJie AI Group 👋
+# YuanJie AI Group — AI + AR 技术解决方案
 
 <div align="center">
 
-[![Organization](https://img.shields.io/badge/Organization-YuanJie%20AI-blue?style=flat-square)](https://github.com/yuanjie-ai-group)
-[![Location](https://img.shields.io/badge/Location-China-red?style=flat-square)](https://github.com/yuanjie-ai-group)
-[![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20AR%20Innovation-green?style=flat-square)](https://github.com/yuanjie-ai-group)
+**元界 AI** 是一家专注于 AI 应用落地与 AR 沉浸式体验的技术公司，为文博、文旅、教育等行业提供智能化解决方案。
+
+[![Website](https://img.shields.io/badge/官网-yuanjie.rxcloud.group-0052CC?style=flat-square)](https://yuanjie.rxcloud.group)
+[![GitHub Org](https://img.shields.io/badge/GitHub-yuanjie--ai--group-181717?style=flat-square&logo=github)](https://github.com/yuanjie-ai-group)
 
 </div>
 
-## 🚀 关于我们
+---
 
-**元界 AI (YuanJie AI Group)** 是一家专注于人工智能技术与应用创新的技术团队。我们致力于探索 AI + AR 的前沿技术，将传统文化遗产与现代科技深度融合，打造沉浸式数字体验。
+## 我们做什么
 
-## 🎯 核心业务
+元界 AI 为企业客户提供从方案设计到落地交付的全链路 AI 技术服务：
 
-- 🏛️ **数字文博** - AR/AI 驱动的博物馆数字化体验解决方案
-- 🤖 **AI 应用落地** - 大语言模型、虚拟数字人、智能导览
-- 📱 **小程序开发** - 微信生态全栈开发（C端/B端/P端 SaaS）
-- 🔧 **XR 技术研发** - xr-frame AR 渲染、3D 交互、空间计算
+- **AI 应用开发** — 大语言模型集成、智能客服、AI 数字人、知识库问答系统
+- **AR/XR 沉浸式体验** — 基于微信 xr-frame 的 AR 互动、3D 展示、空间计算
+- **数字文博与文旅** — 博物馆数字化、AR 导览、非遗文化数字传承
+- **微信小程序全栈开发** — C端/B端/SaaS 平台，从前端到云开发一站式交付
 
-## 🏺 重点项目：铁艺博物馆 AR 小程序
+## 技术能力
 
-> 以 AR + AI 技术赋能传统铁艺非遗文化，打造沉浸式数字博物馆体验
+| 领域 | 技术栈 |
+|------|--------|
+| **前端** | TypeScript, 微信小程序, React, Next.js |
+| **AI/LLM** | 大语言模型集成, CloudBase AI (混元), Prompt Engineering |
+| **AR/XR** | xr-frame (微信官方 XR 框架), 3D 渲染, 空间计算 |
+| **后端** | Node.js, Python, 微信云开发 CloudBase |
+| **数据** | NoSQL, 云函数, 云存储, 向量数据库 |
 
-**核心功能：**
-- 📷 **AR 扫描互动** — 多展品切换、爆炸拆解动画、双指缩放，基于 xr-frame 实时渲染
-- 🤖 **AI 虚拟馆长** — 接入大模型的数字人导览，文化教育 + 导购双角色
-- 💬 **铁艺论坛** — UGC 社区，工艺交流与作品分享
-- 🛒 **非遗文创商城** — 从 AR 体验到购买的完整转化链路
-- 👶 **儿童模式** — 卡通主题界面，寓教于乐
+## 开源项目
 
-**技术架构：**
-```
-前端：原生微信小程序 + TypeScript + Vant Weapp
-AR：  xr-frame（微信官方 XR 框架）
-AI：  CloudBase AI（混元大模型）
-后端：微信云开发 CloudBase（NoSQL + 云函数 + 云存储）
-```
-
-## 🛠️ 技术栈
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![WeChat](https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-![AR](https://img.shields.io/badge/xr--frame_AR-000000?style=for-the-badge&logo=webxr&logoColor=white)
-![AI](https://img.shields.io/badge/Hunyuan_LLM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CloudBase](https://img.shields.io/badge/CloudBase-0052CC?style=for-the-badge&logo=tencentqq&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📁 主要仓库
-
-| 仓库 | 描述 | 状态 |
+| 仓库 | 简介 | 状态 |
 |------|------|------|
-| [yuanjie-ar-mp](https://github.com/yuanjie-ai-group/yuanjie-ar-mp) | 铁艺博物馆 AR 小程序 — AR 互动 + AI 虚拟馆长 + 非遗文创 | 🟢 活跃开发 |
-| [yuanjie](https://github.com/yuanjie-ai-group/yuanjie) | 元界公司工作协同管理 — 任务追踪、文档管理、项目代码 | 🟢 活跃 |
+| **[ai-product-playbook](https://github.com/yuanjie-ai-group/ai-product-playbook)** | AI 产品全链路修炼手册：产品思维、增长运营、数据驱动、商业战略 | 持续更新 |
+| **[yuanjie](https://github.com/yuanjie-ai-group/yuanjie)** | 团队协同与项目管理 | 活跃 |
 
-## 🤝 联系我们
+## 代表项目：铁艺博物馆 AR 小程序
 
-- 📧 Email: [contact@yuanjie.ai](mailto:contact@yuanjie.ai)
-- 🌐 Website: [https://yuanjie.rxcloud.group](https://yuanjie.rxcloud.group)
-- 📍 Location: China
+以 AR + AI 技术赋能传统铁艺非遗文化，打造沉浸式数字博物馆体验：
+
+- **AR 扫描互动** — 多展品 AR 识别、爆炸拆解动画、双指缩放旋转
+- **AI 虚拟馆长** — 接入大语言模型的数字人导览，支持自然语言交互
+- **非遗文创商城** — 从 AR 体验到购买的完整转化链路
+- **儿童模式** — 卡通界面 + 互动问答，寓教于乐
+
+> 技术架构：微信小程序 + TypeScript + xr-frame AR + CloudBase AI (混元大模型) + 云开发
+
+## 联系我们
+
+- **官网**: [yuanjie.rxcloud.group](https://yuanjie.rxcloud.group)
+- **邮箱**: [contact@yuanjie.ai](mailto:contact@yuanjie.ai)
 
 ---
 
 <div align="center">
 
-**用 AI + AR 让传统文化活起来 🏺✨**
-
-*Copyright © 2025 YuanJie AI Group. All rights reserved.*
+*用 AI 和 AR 技术，让传统文化活起来，让数字体验更智能。*
 
 </div>
